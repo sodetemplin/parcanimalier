@@ -1,0 +1,16 @@
+<div class="col_12">
+<!-- Breadcrumbs -->
+<ul class="breadcrumbs">
+<li><a href="./index.php">Accueil</a></li>
+<li>Le Raymond</li>
+</ul>
+<div class="col_6">La faune pyrénééenne dans le parc se compose de ... <br /><div class="notice error">A COMPLTER</div></div>
+<div class="col_6">
+<div class="gallery">
+<a href="./contenu/images/raymond1_410x300.jpg"><img src="./contenu/images/raymond1_410x300.jpg" width="100"/></a>
+<a href="./contenu/images/raymond2_410x300.jpg"><img src="./contenu/images/raymond2_410x300.jpg" width="100"/></a>
+<a href="./contenu/images/raymond3_410x300.jpg"><img src="./contenu/images/raymond3_410x300.jpg" width="100"/></a>
+<a href="./contenu/images/raymond4_410x300.jpg"><img src="./contenu/images/raymond4_410x300.jpg" width="100"/></a>
+</div>
+</div>
+</div>
