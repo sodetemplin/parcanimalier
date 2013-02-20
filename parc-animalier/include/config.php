@@ -21,7 +21,9 @@ $liste_pages_par_langues = array (
 						'flore_pyreneenne' => './contenu/pages/flore_pyreneenne.php',		 	 
 						'loups_espace_naturel' => './contenu/pages/loups_espace_naturel.php',		 	 
 						'ours_espace_naturel' => './contenu/pages/ours_espace_naturel.php',		 	 
-						'contact_parc' => './contenu/pages/contact_parc.php'
+						'contact_parc' => './contenu/pages/contact_parc.php',
+						'galerie' => './contenu/pages/galerie.php'						
+						
 					),
 				'en' => array 
 					(	'park_home' => './contenu/pages/en/park_home.php',

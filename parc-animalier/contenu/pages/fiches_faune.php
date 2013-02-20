@@ -93,3 +93,5 @@
 		<a href="./contenu/images/fiches_pedagogiques_les_angles_habitat_renne.png"><img src="./contenu/images/fiches_pedagogiques_les_angles_habitat_renne.png" width="150" /></a>		
 	</div>
 </div>
+
+</div>
