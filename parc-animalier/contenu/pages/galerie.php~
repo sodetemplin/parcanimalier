@@ -2,9 +2,9 @@
 <!-- Breadcrumbs -->
 <ul class="breadcrumbs">
 <li><a href="./index.php">Accueil</a></li>
-<li>Photos et vidéos de la faune pyrénéenne</li>
+<li>Photos et vidéos du parc</li>
 </ul>
-<p>En venant au parc animalier, vous pourrez admirer les animaux suivants :<p>
+<p>En venant au parc animalier, vous pourrez admirer en vrai les divers éléments présents sur cette page :<p>
 
 <ul class="tabs left">
 <li><a href="#Bouquetin">Bouquetin</a></li>
@@ -39,12 +39,30 @@
 </div>
 <div id="Isard" class="tab-content">
 	<!-- Isard -->
+	<div class="gallery">
+		<?php
+			$photos = liste_photos($chemin_images.'/animaux/isard'); 
+			$vignettes = liste_photos($chemin_images.'/animaux/isard/'.$sous_chemin_vignettes);
+			$lien_a_afficher = affiche_photos('Isard',$photos,$vignettes);
+			if ($lien_a_afficher <> "")
+				echo $lien_a_afficher;
+			else 
+				echo "Pas de contenu";
+		?>	
+	</div>
 </div>
 <div id="Ours" class="tab-content">
+	<!-- Ours -->
 	<div class="gallery">
-			<a href="./contenu/images/loups1-300x199.png"><img alt="Ours" src="./contenu/images/loups1-300x199.png" width="150"/></a>
-			<a href="./contenu/images/loups2-300x199.png"><img alt="Ours" src="./contenu/images/loups2-300x199.png" width="150"/></a>
-			<a href="./contenu/images/ours1-300x199.png"><img alt="Ours" src="./contenu/images/ours1-300x199.png" width="150"/></a>
+		<?php
+			$photos = liste_photos($chemin_images.'/animaux/ours'); 
+			$vignettes = liste_photos($chemin_images.'/animaux/ours/'.$sous_chemin_vignettes);
+			$lien_a_afficher = affiche_photos('Ours',$photos,$vignettes);
+			if ($lien_a_afficher <> "")
+				echo $lien_a_afficher;
+			else 
+				echo "Pas de contenu";
+		?>	
 	</div>
 </div>
 <div id="Loup" class="tab-content">

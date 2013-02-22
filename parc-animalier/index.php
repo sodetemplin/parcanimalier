@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-<?php	require_once('include/config.php'); ?>
+<?php	
+	require_once('include/config.php');
+	require_once('include/fonctions.php');
+?>
 <!-- ===================================== START HEADER ===================================== -->
 <head>
 <title><?php $titre_page = (isset($_GET['langue']) ? $titre_site_par_langues[$_GET['langue']] : $titre_site_par_langues[$langue_par_defaut] ); echo $titre_page; ?></title>
