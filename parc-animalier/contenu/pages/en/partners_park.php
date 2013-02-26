@@ -25,7 +25,7 @@
         <li><a href="http://www.font-romeu.fr/fr/syndication/a-decouvrir-autour-de-font-romeu-ete/detail/PCULAR066FS0006F/LES-ANGLES/PARC-ANIMALIER-DES-ANGLES" target="_blank">Le parc animalier sur le site de Font Romeu (only in French)</a></li>
         <li><a href="https://plus.google.com/100015414012897778412/about?gl=fr&hl=fr" target="_blank">Le parc animalier sur Google+ (only in French)</a></li>
         <li><a href="http://www.pagesjaunes.fr/sorties/parc-animalier-des-angles-17676" target="_blank">Le parc animalier sur les Pages Jaunes (only in French)</a></li>
-        <li><a href="./index.php?page=park_contact&langue=en"><span class="icon grey small" data-icon="'"></span>You want to be added to this page ? contact us !</a></li>                    
+        <li><span class="icon grey small" data-icon="@"></span> <a href="./index.php?page=park_contact&langue=en">You want to be added to this page ? contact us !</a></li>                    
 	</ul>	
 	</div>
 </div>

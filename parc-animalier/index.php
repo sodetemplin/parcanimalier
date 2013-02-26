@@ -3,7 +3,6 @@
 <?php	
 	require_once('include/config.php');
 	require_once('include/fonctions.php');
-	require_once('include/emailcode.class.php');
 	$langue = affecte_langue();
 	$langue_chemin = affecte_chemin_langue();
 ?>

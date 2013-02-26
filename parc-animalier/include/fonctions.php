@@ -43,11 +43,10 @@ function motscles_meta($langue) {
 function email($type_mail) {
 	global $mail_contact;
 	global $mail_webmaster;
-	$emailcode = new ClassEmailcode();
-	if ((isset($type_mail)) && $type_mail == 'webmaster')
-		$retour = $emailcode->emailgetencode($mail_webmaster);
+	if ((isset($type_mail)) && $type_mail == 'webmaster') 
+		$retour = str_replace('.','&#46;',str_replace('@','&#64;',$mail_webmaster)); 
 	else 
-		$retour = $emailcode->emailgetencode($mail_contact);
+		$retour = str_replace('.','&#46;',str_replace('@','&#64;',$mail_contact)); 
 	return $retour;	
 }
 function traduction($langue,$chaine) {
