@@ -44,7 +44,7 @@ function email($type_mail) {
 	global $mail_contact;
 	global $mail_webmaster;
 	$emailcode = new ClassEmailcode();
-	if ($type_mail == 'webmaster')
+	if ((isset($type_mail)) && $type_mail == 'webmaster')
 		$retour = $emailcode->emailgetencode($mail_webmaster);
 	else 
 		$retour = $emailcode->emailgetencode($mail_contact);
