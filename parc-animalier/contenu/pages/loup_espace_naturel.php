@@ -1,5 +1,5 @@
 	<div class="col_8">
-		<h4>Fiche signalétique</h4>
+		<h4>Fiche signalétique du Loup</h4>
 		<ul class="checks">
 			<li><strong>Nom scientifique</strong> : Canis Lupus</li>
 			<li><strong>Famille</strong> : canidés</li>
@@ -16,9 +16,9 @@
 	<div class="col_4">
 		<h4>Photos</h4>
 		<div class="gallery">
-			<a href="./contenu/images/animaux/loup/SL LOUPS FGU2747T_800x600.jpg"><img alt="Loup" src="./contenu/images/animaux/loup/vignettes/SL LOUPS FGU2747T_150x125.jpg"/></a>
-			<a href="./contenu/images/animaux/loup/SL LOUPS FGU2907T_800x600.jpg"><img alt="Loup" src="./contenu/images/animaux/loup/vignettes/SL LOUPS FGU2907T_150x125.jpg"/></a>
-			<a href="./contenu/images/animaux/loup/SL LOUPS FGU2916T_800x600.jpg"><img alt="Loup" src="./contenu/images/animaux/loup/vignettes/SL LOUPS FGU2916T_150x125.jpg"/></a>		
+			<a href="./contenu/images/animaux/loup/SL LOUPS FGU2747T_800x600.jpg" title="Loup"><img alt="Loup" src="./contenu/images/animaux/loup/vignettes/SL LOUPS FGU2747T_150x125.jpg"/></a>
+			<a href="./contenu/images/animaux/loup/SL LOUPS FGU2907T_800x600.jpg" title="Loup"><img alt="Loup" src="./contenu/images/animaux/loup/vignettes/SL LOUPS FGU2907T_150x125.jpg"/></a>
+			<a href="./contenu/images/animaux/loup/SL LOUPS FGU2916T_800x600.jpg" title="Loup"><img alt="Loup" src="./contenu/images/animaux/loup/vignettes/SL LOUPS FGU2916T_150x125.jpg"/></a>		
 		</div>
 	</div>	
 	<div class="col_12">

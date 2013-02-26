@@ -1,7 +1,10 @@
 <div class="col_12">
+	<h2 class="center">Parc animalier des Angles, en Capcir</h2>
 	<div class="col_9">	
-	<p><img class="align-left" src="./contenu/images/ours-accueil-2.png" />
-	Le parc animalier des Angles, en Capcir, est <strong>ouvert 7 jours sur 7</strong>, de <strong>9h à 17h en été</strong>, de <strong>9h à 16h l'hiver</strong>.</p><p>La faune des Pyrénées y est visible dans son espace naturel : loups, ours, isards, et bien d'autres espèces, vivent dans de vastes enclos, en liberté.</p><p>Un sentier botanique est également présent pour découvrir la flore de nos montagnes.</p>
+	<p><img class="align-left" alt="Parc animalier des Angles, en Capcir" src="./contenu/images/ParcAnimLogo.jpg" />
+	<p class="center"><h6 class="center">Ouverture</h6>Tous les jours de 9h à 17h, du 10 juillet au 31 août de 9h à 18h</p>
+	<p class="center"><h6 class="center">Durée de visite</h6>Petit circuit, 1h / 1500m, grand circuit de 2h / 3500m</p>
+	<p class="center"><h6 class="center">Tarif</h6>13€ pour les adultes, 11€ pour les enfants (gratuit pour les moins de 4 ans), <a href="./index.php?page=contact_parc">nous contacter</a> pour les groupes</p>
 	</div>
 	<div class="col_3">
 	    <ul class="alt">
@@ -9,5 +12,5 @@
 			<li><a href="./index.php?page=chemins_parc"><button class="medium blue">Visite guidée du parc</button></a></li>
 			<li><a href="./index.php?page=fiches_faune"><button class="medium orange">Fiches de la faune du parc</button></a></li>            
 		</ul>
-	</div>
+	</div>	
 </div>

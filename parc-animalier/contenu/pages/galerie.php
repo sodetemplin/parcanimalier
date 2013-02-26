@@ -1,7 +1,7 @@
 <div class="col_12">
 <!-- Breadcrumbs -->
 <ul class="breadcrumbs">
-<li><a href="./index.php"><?php echo traduction($langue,'accueil'); ?></a></li>
+<li><?php echo traduction($langue,'lien_accueil'); ?><?php echo traduction($langue,'accueil'); ?></a></li>
 <li><?php echo traduction($langue,'titre_page_galerie'); ?></li>
 </ul>
 <p><?php echo traduction($langue,'texte_page_galerie'); ?> :<p>

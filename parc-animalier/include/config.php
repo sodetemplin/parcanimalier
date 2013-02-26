@@ -3,9 +3,7 @@
 $nom_domaine_publique = 'www.faune-pyreneenne.fr';
 $mail_webmaster = 'webmaster@faune-pyreneenne.fr';
 $mail_contact = 'contact@faune-pyreneenne.fr';
-$adresse_postale = 'Le pla del mir, BP 10, 66210 Les Angles, France';
-$telephone_fr = '04.68.04.17.20';
-$telephone_en = '+33.4.68.04.17.20';
+$adresse_postale = 'Parc animalier des Angles, Le pla del mir, BP 10, 66210 Les Angles, France';
 $titre_site_par_langues = array (
 				'fr' => 'Parc animalier des Angles',
 				'en' => 'The Angles animal park'
@@ -24,7 +22,9 @@ $liste_pages_par_langues = array (
 						'contact_parc' => './contenu/pages/contact_parc.php',
 						'galerie' => './contenu/pages/galerie.php',
 						'histoire_parc' => './contenu/pages/histoire_parc.php',
-						'parc_detail' => './contenu/pages/parc_detail.php'							
+						'parc_detail' => './contenu/pages/parc_detail.php',
+						'faq_parc' => './contenu/pages/faq_parc.php',
+						'partenaires_parc' => './contenu/pages/partenaires_parc.php'
 					),	
 				'en' => array 
 					(	'park_home' => './contenu/pages/en/park_home.php',
@@ -34,7 +34,9 @@ $liste_pages_par_langues = array (
 						'guided_tour' => './contenu/pages/en/guided_tour.php',
 						'access_map' => './contenu/pages/en/access_map.php',
 						'legal_notice' => './contenu/pages/en/legal_notice.php',
-						'galerie' => './contenu/pages/galerie.php'
+						'galerie' => './contenu/pages/galerie.php',
+						'faq_park' => './contenu/pages/en/faq_park.php',
+						'partners_park' => './contenu/pages/en/partners_park.php'																			
 					)
 				);
 $textes_affichees_par_langues = array ( 
@@ -54,8 +56,18 @@ $textes_affichees_par_langues = array (
 						'traduction_non_trouvee' => 'Valeur à afficher non trouvée :-(',
 						'vide' => 'Pas de contenu',
 						'accueil' => 'Accueil',
+						'visite_guidee' => 'Visite guidée',
+						'plan_acces' => 'Plan d\'accès',
 						'titre_page_galerie' => 'Photos et vidéos du parc',
-						'texte_page_galerie' => 'En venant au parc animalier, vous pourrez admirer en vrai les divers éléments présents sur cette page'
+						'texte_page_galerie' => 'En venant au parc animalier, vous pourrez admirer en vrai les diverses espèces présentes sur cette page',
+						'lien_accueil' => '<a href="./index.php?page=acceuil_parc">',
+						'description_site' => 'Parc animalier Les Angles, les animaux sauvages dans leur espace naturel',
+						'motscles_site' => 'faune des pyrénées, flore des pyrénées, animaux sauvages pyrénées, parc animalier',
+						'copyright_site' => 'Tous droits réservés',
+						'chaine_telephone' => 'Tél. ',
+						'chaine_email' => 'Email ',
+						'chaine_retourhaut' => 'Retour en haut ',
+						'telephone' => '04.68.04.17.20'
 					),	
 				'en' => array 
 					(	'bouquetin' => 'Spanish ibex',
@@ -73,8 +85,18 @@ $textes_affichees_par_langues = array (
 						'traduction_non_trouvee' => 'No translation found :-(',
 						'vide' => 'No data',
 						'accueil' => 'Home',
+						'visite_guidee' => 'Guided tour',
+						'plan_acces' => 'Access map',
 						'titre_page_galerie' => 'Movies and pictures\' park',
-						'texte_page_galerie' => 'Come to our animal park to see all thses animals'																					
+						'texte_page_galerie' => 'Come to our park to see all theses species for real',
+						'lien_accueil' => '<a href="./index.php?page=park_home&langue=en">',
+						'description_site' => 'Les Angles\' animal park, wild animals in their natural area',
+						'motscles_site' => 'pyrénées\' fauna, pyrénées\' flora, wild animals of the pyrénées, animal park',
+						'copyright_site' => 'Copyright',
+						'chaine_telephone' => 'Phone ',
+						'chaine_email' => 'Email ',
+						'chaine_retourhaut' => 'Back to top ',
+						'telephone' => '+33.4.68.04.17.20'																																	
 					)
 				);							
 $chaine_par_defaut = 'traduction_non_trouvee';

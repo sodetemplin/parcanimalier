@@ -1,7 +1,7 @@
 <div class="col_12">
 <!-- Breadcrumbs -->
 <ul class="breadcrumbs">
-<li><a href="./index.php">Accueil</a></li>
+<li><a href="./index.php?page=accueil_parc">Accueil</a></li>
 <li>Fiches de la faune des Pyrénées</li>
 </ul>
 <p>Les animaux présents sur le parc sont décrits sur des <strong>fiches descriptives</strong>, illustrées au trait et à l'aquarelle par <strong>Marie-Claude Quérineau</strong>. Ces fiches sont <strong>vendues à la boutique du parc</strong>. Elles sont données ci-dessous avec une faible résolution d'images pour éviter toute reproduction illicite :-)</p>

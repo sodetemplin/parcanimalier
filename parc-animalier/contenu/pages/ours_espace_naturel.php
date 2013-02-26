@@ -1,5 +1,5 @@
 	<div class="col_8">
-		<h4>Fiche signalétique</h4>
+		<h4>Fiche signalétique de l'Ours</h4>
 		<ul class="checks">
 			<li><strong>Nom scientifique</strong> : Ursus Arctos</li>
 			<li><strong>Famille</strong> : ursidés</li>
@@ -16,9 +16,9 @@
 	<div class="col_4">
 		<h4>Photos</h4>
 		<div class="gallery">
-			<a href="./contenu/images/animaux/ours/Patrick_Nosetto (4)_800x600.JPG"><img alt="Ours" src="./contenu/images/animaux/ours/vignettes/Patrick_Nosetto (4)_150x125.JPG"/></a>
-			<a href="./contenu/images/animaux/ours/_FAL2410_800x600.jpg"><img alt="Ours" src="./contenu/images/animaux/ours/vignettes/_FAL2410_150x125.jpg"/></a>
-			<a href="./contenu/images/animaux/ours/_FAL3407_800x600.jpg"><img alt="Ours" src="./contenu/images/animaux/ours/vignettes/_FAL3407_150x125.jpg"/></a>		
+			<a href="./contenu/images/animaux/ours/Patrick_Nosetto (4)_800x600.JPG" title="Ours"><img alt="Ours" src="./contenu/images/animaux/ours/vignettes/Patrick_Nosetto (4)_150x125.JPG"/></a>
+			<a href="./contenu/images/animaux/ours/_FAL2410_800x600.jpg" title="Ours"><img alt="Ours" src="./contenu/images/animaux/ours/vignettes/_FAL2410_150x125.jpg"/></a>
+			<a href="./contenu/images/animaux/ours/_FAL3407_800x600.jpg" title="Ours"><img alt="Ours" src="./contenu/images/animaux/ours/vignettes/_FAL3407_150x125.jpg"/></a>		
 		</div>
 	</div>
 	<div class="col_12">

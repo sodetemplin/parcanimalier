@@ -1,18 +1,18 @@
 <div class="col_12">
 <!-- Breadcrumbs -->
 <ul class="breadcrumbs">
-<li><a href="./index.php">Accueil</a></li>
+<li><a href="./index.php?page=accueil_parc">Accueil</a></li>
 <li>Faune pyrénéenne</li>
 </ul>
 <p>La faune pyrénéenne dans le parc se compose des animaux suivants :<p>
 
 <ul class="tabs left">
+<li><a href="#Isard">Isard</a></li>
 <li><a href="#Bouquetin">Bouquetin</a></li>
 <li><a href="#Cerf">Cerf</a></li>
 <li><a href="#Mouflon">Mouflon</a></li>
 <li><a href="#Sanglier">Sanglier</a></li>
 <li><a href="#Marmotte">Marmotte</a></li>
-<li><a href="#Isard">Isard</a></li>
 <li><a href="#Ours">Ours</a></li>
 <li><a href="#Loup">Loup</a></li>
 <li><a href="#Chevreuil">Chevreuil</a></li>
@@ -21,6 +21,10 @@
 <li><a href="#Renne">Renne</a></li>
 </ul>
 
+<div id="Isard" class="tab-content">
+	<!-- Isard -->
+	<?php include($chemin_pages.'/isard_espace_naturel.php'); ?> 	
+</div>
 <div id="Bouquetin" class="tab-content">
 	<!-- Bouquetin -->
 	<?php include($chemin_pages.'/bouquetin_espace_naturel.php'); ?> 	
@@ -40,10 +44,6 @@
 <div id="Marmotte" class="tab-content">
 	<!-- Marmotte -->
 	<?php include($chemin_pages.'/marmotte_espace_naturel.php'); ?> 	
-</div>
-<div id="Isard" class="tab-content">
-	<!-- Isard -->
-	<?php include($chemin_pages.'/isard_espace_naturel.php'); ?> 	
 </div>
 <div id="Ours" class="tab-content">
 	<?php include($chemin_pages.'/ours_espace_naturel.php'); ?> 

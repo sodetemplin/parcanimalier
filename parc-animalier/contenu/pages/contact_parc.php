@@ -1,27 +1,10 @@
 <div class="col_12">
 <!-- Breadcrumbs -->
 <ul class="breadcrumbs">
-<li><a href="./index.php">Accueil</a></li>
+<li><a href="./index.php?page=accueil_parc">Accueil</a></li>
 <li>Nous écrire</li>
 </ul>
-	<p>Nous sommes situés à l'adresse <strong><?php echo $adresse_postale; ?></strong> (plan disponible <a href="./index.php?page=plan_acces&langue=fr">ici</a>), et joignable par téléphone au <strong><?php echo $telephone_fr; ?></strong>. Vous pouvez également nous écrire via ce formulaire :</p>
-	<form class="vertical">
-	<div class="col_4">
-
-	<label for="Nom">Nom</label>
-	<input id="Nom" type="text" placeholder="Votre nom" required/>
-	
-	<label for="Prenom">Prénom</label>
-	<input id="Prenom" type="text" placeholder="Votre prénom" required/>
-
-	<label for="Email">E-mail</label>
-	<input id="Email" type="email" placeholder="Votre e-mail" required/>
-	
-	<label for="Texte">Votre message</label>
-	<textarea id="Texte" placeholder="Votre message" required></textarea><br />
-	
-	<button>Envoyer</button>
-		
-	</div>
-	</form>
+	<p>Nous sommes joignables par téléphone au <strong><?php echo traduction($langue,'telephone'); ?></strong>. Vous pouvez également nous écrire à <strong><?php echo email(); ?></strong></p>
+	<p>Nous sommes situés à l'adresse suivante (plan disponible <a href="./index.php?page=plan_acces&langue=fr">ici</a>) :
+	<address><?php echo $adresse_postale; ?></<address>		
 </div>

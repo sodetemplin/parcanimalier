@@ -1,5 +1,5 @@
 <div id="header">
-<div class="col_6"><p class="left">Langues : <a href="./">FR</a> | <a href="./index.php?page=park_home&langue=en">EN</a></p></div>
+<div class="col_6"><p class="left">Langues : <a href="./index.php?page=accueil_parc">FR</a> | <a href="./index.php?page=park_home&langue=en">EN</a></p></div>
 
 <div class="col_6">
 	<?php if ( function_exists( 'the_msls' ) ) the_msls(); ?>
@@ -9,8 +9,8 @@
 <div>
 <!-- Slideshow -->
 <ul class="slideshow" width="820" height="410">
-<li><img src="./contenu/images/ParcAnim00_800_400.png" width="820" height="410" /></li>
-<li><img src="./contenu/images/ParcAnim01_800_400.png" width="820" height="410" /></li>
-<li><img src="./contenu/images/ParcAnim02_800_400.png" width="820" height="410" /></li>
+<li><img alt="Parc animalier des Angles logo" src="./contenu/images/ParcAnim00_820_410_optim.jpg" width="820" height="410" /></li>
+<li><img alt="Parc animalier des Angles logo" src="./contenu/images/ParcAnim01_820_410_optim.jpg" width="820" height="410" /></li>
+<li><img alt="Parc animalier des Angles logo" src="./contenu/images/ParcAnim02_820_410_optim.jpg" width="820" height="410" /></li>
 </ul>
 </div>

@@ -8,5 +8,6 @@
 	<li <?php if ($_SERVER['QUERY_STRING'] == "page=faune_pyreneenne") echo 'class="current"'; else echo ''; ?>><a href="./index.php?page=faune_pyreneenne"><span class="icon" data-icon="G"></span>Faune des Pyrénées</a></li>
 	<li <?php if ($_SERVER['QUERY_STRING'] == "page=flore_pyreneenne") echo 'class="current"'; else echo ''; ?>><a href="./index.php?page=flore_pyreneenne"><span class="icon" data-icon="G"></span>Flore des Pyrénées</a></li>
 	<li <?php if ($_SERVER['QUERY_STRING'] == "page=contact_parc") echo 'class="current"'; else echo ''; ?>><a href="./index.php?page=contact_parc"><span class="icon" data-icon="@"></span>Contact et accès</a></li>
+	<li <?php if ($_SERVER['QUERY_STRING'] == "page=faq_parc") echo 'class="current"'; else echo ''; ?>><a href="./index.php?page=faq_parc"><span class="icon" data-icon="'"></span>Questions ?</a></li>
 	</ul>
 

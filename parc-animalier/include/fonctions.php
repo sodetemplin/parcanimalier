@@ -1,5 +1,55 @@
 <?php 
 
+function affecte_langue() {
+	global $langue_par_defaut;
+   // verification de la langue
+   if ( (isset($_GET['langue'])) && $_GET['langue']<>$langue_par_defaut ) { 
+		$langue_chemin = '/'.$_GET['langue'].'/';
+		$langue = $_GET['langue']; 
+	} else { 
+		$langue_chemin = '/';
+		$langue = $langue_par_defaut;
+	}	
+	return $langue;
+}
+
+function affecte_chemin_langue() {
+	global $langue_par_defaut;
+   // verification de la langue
+   if ( (isset($_GET['langue'])) && $_GET['langue']<>$langue_par_defaut ) { 
+		$langue_chemin = '/'.$_GET['langue'].'/';
+	} else { 
+		$langue_chemin = '/';
+	}	
+	return $langue_chemin;
+}
+
+function titre_page($langue) {
+	global $titre_site_par_langues;
+	global $langue_par_defaut;
+	$titre_page = ($langue ? $titre_site_par_langues[$langue] : $titre_site_par_langues[$langue_par_defaut] );
+	return $titre_page; 	
+}
+
+function description_meta($langue) {
+	return "<meta name=\"description\" content=\"".traduction($langue,'description_site')."\"/>";	
+}
+
+function motscles_meta($langue) {
+	return "<meta name=\"keywords\" content=\"".traduction($langue,'motscles_site')."\" />";	
+}
+
+
+function email($type_mail) {
+	global $mail_contact;
+	global $mail_webmaster;
+	$emailcode = new ClassEmailcode();
+	if ($type_mail == 'webmaster')
+		$retour = $emailcode->emailgetencode($mail_webmaster);
+	else 
+		$retour = $emailcode->emailgetencode($mail_contact);
+	return $retour;	
+}
 function traduction($langue,$chaine) {
 	global $textes_affichees_par_langues;
 	global $langue_par_defaut;
@@ -36,14 +86,16 @@ function affiche_onglets($tab_repertoires,$type_tab,$langue) {
 		$nb_items = count($tab_repertoires);
 		$link = "<ul class=\"".$type_tab."\">";
 		for($index=0; $index < $nb_items; $index++) { 
-				$link .= "<li><a href=\"#".traduction($langue,$tab_repertoires[$index])."\">".traduction($langue,$tab_repertoires[$index])."</a></li>"; 
+				$link .= "<li><a href=\"#".$tab_repertoires[$index]."\">".traduction($langue,$tab_repertoires[$index])."</a></li>";
 		}
 		$link .= "</ul>";
 	} 
 	if($type_tab == "tab-content") {
 		$nb_items = count($tab_repertoires);
 		for($index=0; $index < $nb_items; $index++) { 
-			$link .= '<div id="'.traduction($langue,$tab_repertoires[$index]).'" class="tab-content">';
+			$link .= '<div id="'.$tab_repertoires[$index].'" class="tab-content">';
+			if($langue == 'fr') 
+				$link .= '<h6><em><a href="./index.php?page=faune_pyreneenne#'.traduction($langue,$tab_repertoires[$index]).'">Voir la fiche descriptive de l\'espèce</a></em></h6>';
 			$link .= '<div class="gallery">';
 			$photos = liste_photos($chemin_images_animaux.'/'.$tab_repertoires[$index]); 
 			$vignettes = liste_photos($chemin_images_animaux.'/'.$tab_repertoires[$index].'/'.$sous_chemin_vignettes);

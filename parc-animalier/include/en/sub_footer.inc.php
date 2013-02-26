@@ -11,9 +11,9 @@
 	<h5>Partners</h5>
         <ul class="checks">
         <li><a href="http://www.les-angles.com/saison/index.php?lang=english" target="_blank">Les Angles' ski resort</a></li>
-        <li><a href="http://faunedespyrenees.free.fr/" target="_blank">Pyrénées' animals</a></li>
         <li><a href="http://www.laquillane.fr/" target="_blank">La Quillane' ski resort</a></li>
         <li><a href="http://www.neigescatalanes.com/home.asp?lng=EN_NC" target="_blank">More information about "Les neiges catalanes"</a></li>
+        <li><a href="./index.php?page=partners_park&langue=en"><em>All our partners ...</em></a></li>         
         </ul>
 	</div>
 	
