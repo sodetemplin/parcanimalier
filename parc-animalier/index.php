@@ -50,7 +50,10 @@
 
 <!-- ===================================== START FOOTER ===================================== -->
 			<div class="clear"></div>
-			<?php include('include'.$langue_chemin.'footer.inc.php'); ?>
+			<?php 
+				include('include'.$langue_chemin.'footer.inc.php');
+				include('include/stats.inc.php'); 
+			?>
 </div>
 <!-- ===================================== END FOOTER ===================================== -->
 
