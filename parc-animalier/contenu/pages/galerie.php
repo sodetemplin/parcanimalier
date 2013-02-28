@@ -16,3 +16,4 @@
 	//Affichage du contenu
 	echo affiche_onglets(liste_repertoire($chemin_images_animaux),"tab-content",$langue_courante);	
 ?>
+</div>
