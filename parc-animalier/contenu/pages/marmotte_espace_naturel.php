@@ -11,7 +11,7 @@
 			<li><strong>Alimentation</strong> : plantes herbacées, racines</li>
 			<li><strong>Prédateurs</strong> : aigle royal, renard, divers rapaces (buses), divers carnassiers</li>									
 		</ul>
-		<h5><a href="./index.php?page=galerie#Marmotte">Plus de photos ...</a></h5>
+		<h5><a href="./index.php?page=galerie#marmotte">Plus de photos ...</a></h5>
 	</div>
 	<div class="col_4">
 		<h4>Photos</h4>

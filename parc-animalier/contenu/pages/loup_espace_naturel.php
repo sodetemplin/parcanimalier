@@ -11,7 +11,7 @@
 			<li><strong>Alimentation</strong> : très variée, des petits rongeurs aux grands ongulés</li>
 			<li><strong>Prédateurs</strong> : l'homme</li>									
 		</ul>
-		<h5><a href="./index.php?page=galerie#Loup">Plus de photos ...</a></h5>
+		<h5><a href="./index.php?page=galerie#loup">Plus de photos ...</a></h5>
 	</div>
 	<div class="col_4">
 		<h4>Photos</h4>

@@ -11,7 +11,7 @@
 			<li><strong>Alimentation</strong> : omnivore, végétarien  plus de 80%, captures d'ongulés sauvages et domestiques</li>
 			<li><strong>Prédateurs</strong> : dans la nature, il n'a pas de prédateurs, sinon l'homme</li>									
 		</ul>
-		<h5><a href="./index.php?page=galerie#Ours">Plus de photos ...</a></h5>
+		<h5><a href="./index.php?page=galerie#ours">Plus de photos ...</a></h5>
 	</div>
 	<div class="col_4">
 		<h4>Photos</h4>

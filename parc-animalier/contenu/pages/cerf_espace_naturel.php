@@ -11,7 +11,7 @@
 			<li><strong>Alimentation</strong> : herbivores, herbes, feuilles, fruits, écorces, bourgeons</li>
 			<li><strong>Prédateurs</strong> : homme, chien errant, loup</li>									
 		</ul>
-		<h5><a href="./index.php?page=galerie#Cerf">Plus de photos ...</a></h5>
+		<h5><a href="./index.php?page=galerie#cerf">Plus de photos ...</a></h5>
 	</div>
 	<div class="col_4">
 		<h4>Photos</h4>

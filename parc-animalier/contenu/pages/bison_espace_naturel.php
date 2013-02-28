@@ -11,7 +11,7 @@
 			<li><strong>Alimentation</strong> : herbes, écorces, feuilles, bourgeons</li>
 			<li><strong>Prédateurs</strong> : loup</li>									
 		</ul>
-		<h5><a href="./index.php?page=galerie#Bison">Plus de photos ...</a></h5>
+		<h5><a href="./index.php?page=galerie#bison">Plus de photos ...</a></h5>
 	</div>
 	<div class="col_4">
 		<h4>Photos</h4>

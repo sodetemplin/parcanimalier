@@ -11,7 +11,7 @@
 			<li><strong>Alimentation</strong> : plantes herbacées, bourgeons, brindilles, feuilles, fruits</li>
 			<li><strong>Prédateurs</strong> : homme, chien, lynx, loup, renard (pour les faons)</li>									
 		</ul>
-		<h5><a href="./index.php?page=galerie#Chevreuil">Plus de photos ...</a></h5>
+		<h5><a href="./index.php?page=galerie#chevreuil">Plus de photos ...</a></h5>
 	</div>
 	<div class="col_4">
 		<h4>Photos</h4>

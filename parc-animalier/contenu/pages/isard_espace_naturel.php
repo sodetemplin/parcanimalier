@@ -11,7 +11,7 @@
 			<li><strong>Alimentation</strong> : herbivores, plantes herbacées, feuilles, bourgeons</li>
 			<li><strong>Prédateurs</strong> : homme, chien, loup, lynx, ours</li>									
 		</ul>
-		<h5><a href="./index.php?page=galerie#Isard">Plus de photos ...</a></h5>
+		<h5><a href="./index.php?page=galerie#isard">Plus de photos ...</a></h5>
 	</div>
 	<div class="col_4">
 		<h4>Photos</h4>

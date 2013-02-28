@@ -149,7 +149,7 @@ jQuery(document).ready(function($){
 	$('a.lightbox').fancybox({
 		overlayOpacity: 0.2,
 		overlayColor: '#000'
-	});
+	}); 
 	
 	/*---------------------------------
 		Tabs
