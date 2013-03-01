@@ -11,6 +11,10 @@ display:none;
 display:none; 
 }
 
+#sub-header-index-mobile {
+display:none; 
+}
+
 #pre-footer{
 display:none;
 }

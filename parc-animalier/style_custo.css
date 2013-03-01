@@ -37,8 +37,10 @@ display:none;
 background:#efefef;
 }
 
-#sub-header-index{
+#sub-header-index-html {
 display:none; 
 }
 
-
+#sub-header-index-mobile {
+display:none; 
+}
