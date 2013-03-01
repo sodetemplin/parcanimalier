@@ -21,10 +21,13 @@
 <link rel="stylesheet" type="text/css" href="css/kickstart.css" media="all" />                  <!-- KICKSTART -->
 <link rel="stylesheet" type="text/css" href="style.css" media="all" />                          <!-- STYLES -->
 <link rel="stylesheet" type="text/css" href="style_custo.css" media="all" />                    <!-- CUSTOM STYLES -->
+<link rel="stylesheet" type="text/css" href="style_custo_print.css" media="print" />            <!-- CUSTOM STYLES -->
+<link rel="stylesheet" type="text/css" href="style_custo_mobile.css" media="screen and (max-width: 700px)" > 	<!-- CUSTOM STYLES -->
 </head>
 <!-- ===================================== END HEADER ===================================== -->
-<body><a id="top-of-page"></a>
-<div id="wrap" class="clearfix">
+<body>
+	<a id="top-of-page"></a>
+	<div id="wrap" class="clearfix">
 			<?php				 
 				include('include'.$langue_chemin.'topbar.inc.php'); 
 			?>
@@ -46,17 +49,15 @@
 			<hr class="hr_custo"/>
     		<?php include('include'.$langue_chemin.'sub_footer.inc.php'); ?>
    
-</div>
+	</div>
 
 <!-- ===================================== START FOOTER ===================================== -->
-			<div class="clear"></div>
+	<div class="clear"></div>
 			<?php 
 				include('include'.$langue_chemin.'footer.inc.php');
 				include('include/stats.inc.php'); 
 			?>
-</div>
+	</div>
 <!-- ===================================== END FOOTER ===================================== -->
-
-</div><!-- END WRAP -->
 </body>
 </html>

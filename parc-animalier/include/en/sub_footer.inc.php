@@ -1,3 +1,4 @@
+<div id="pre-footer">
 	<div class="col_6">
 	<h5>Site map</h5>
         <ul class="checks">
@@ -16,4 +17,4 @@
         <li><a href="./index.php?page=partners_park&langue=en"><em>All our partners ...</em></a></li>         
         </ul>
 	</div>
-	
+</div>	

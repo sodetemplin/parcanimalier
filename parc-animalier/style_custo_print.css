@@ -1,0 +1,20 @@
+/*
+	Parc animalier Les Angles
+	style_custo_print.css
+	
+*/
+#header{
+display:none;
+}
+
+#sub-header{
+display:none; 
+}
+
+#pre-footer{
+display:none;
+}
+
+.icon span{
+display:none;
+}

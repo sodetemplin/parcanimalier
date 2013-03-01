@@ -7,7 +7,7 @@
 
 </div>
 </div>
-<div>
+<div id="sub-header">
 <!-- Slideshow -->
 <ul class="slideshow" width="820" height="410">
 <li><img alt="The Angles animal park logo" src="./contenu/images/ParcAnim00_820_410_optim.jpg" width="820" height="410" /></li>
