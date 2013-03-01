@@ -9,6 +9,10 @@ display:block;
 height:50px;
 }
 
+#sub-header-index-mobile {
+display:block; 
+}
+
 #sub-header-index-html {
 display:none; 
 }
