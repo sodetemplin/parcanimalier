@@ -14,7 +14,22 @@
 			<li><strong>Are dogs allowed ?</strong> no</li>			
 			<li><strong>Is car park free ?</strong> yes it is :-)</li>	
 			<li><strong>What is the park surface ?</strong> 37ha</li>		
-			<li><strong>What are rates for groups ?</strong> <a href="./index.php?page=park_contact&langue=en">contact us</a></li>
-			<li><strong>Except animals, is there something else to see ?</strong> yes ! botanics trails are available, surrounded with theses <a href="./index.php?page=pyrenees_flora&langue=en">flora</a></li>													
+			<li><strong>Except animals, is there something else to see ?</strong> yes ! botanics trails are available, surrounded with theses <a href="./index.php?page=pyrenees_flora&langue=en">flora</a></li>
+			<li><a name="rates"><strong>What are your detailled rates ?</strong></a>
+				<ul class="checks">
+					<li>adult rate = 13€</li>
+					<li>kid rate = 11€</li>
+					<li>chilren rate (less than 4 years old) = free :-)</li>
+					<li>rate for adults groups (more than 20 persons) = 10€</li>
+					<li>rate for schoolar group = 8€</li>
+					<li>rate for disabled persons = 8€</li>
+					<li>special rate for adults in sports complex = 11€</li>
+					<li>special rate for kids in sports complex = 9€</li>					
+					<li>rate for adults Pass card = 12€</li>
+					<li>rate for kids Pass card = 10€</li>
+					<li>reduced rate for our partners vacations complex =  6,50€</li>
+					<li>reduced rate for our partners hotels = 7€</li>
+				</ul>
+			</li>																	
 	</ul>	
 </div>

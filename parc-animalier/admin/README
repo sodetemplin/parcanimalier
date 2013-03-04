@@ -3,8 +3,24 @@ parcanimalier
 
 Parc animalier des Angles
 
+Documents de référence
+======================
+ParcAnimalierLesAnges_Besoins.pdf
+ParcAnimalierLesAnges_Maquettes.pdf
+ParcAnimalierLesAnges_Hebergements.pdf
+
+Suivi des actions
+=================
+01/03/2013 : 
+	ajout de l'enregistrement texte suivant dans la zone DNS chez OVH
+google-site-verification=Nhd0T449Z_8JuieFw4NBcvrauUvLyvZodpeYSVO-7VM
+	ajout des 2 sitemaps sur le site de Google, sitemaps générés depuis le site https://www.snapsitemap.com
+	intégration du site dans les outils webmaster de Google
+
 Todo list
 =========
+- Référencer les sitemaps sur d'autres moteurs que Google
+
 - Globaliser sur toutes les pages non éditables l'internationalisation du site
 
 - Ajout à la liste des animaux ceux vivants en dehors des enclos

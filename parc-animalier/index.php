@@ -12,11 +12,6 @@
 <meta charset="UTF-8">
 <?php echo description_meta($langue); ?> <!-- META BALISE -->
 <?php echo motscles_meta($langue); ?> <!-- KEYWORDS BALISE -->
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
-<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-<script type="text/javascript" src="js/prettify.js"></script>                                   <!-- PRETTIFY -->
-<script type="text/javascript" src="js/kickstart.js"></script>                                  <!-- KICKSTART -->
-<script type="text/javascript" src="js/textsize.js"></script>                                   <!-- TEXTSIZE -->
 <link rel="shortcut icon" href="contenu/images/ParcAnimIcone.png" media="all" />                <!-- ICON -->
 <link rel="stylesheet" type="text/css" href="css/kickstart.css" media="all" />                  <!-- KICKSTART -->
 <link rel="stylesheet" type="text/css" href="style.css" media="all" />                          <!-- STYLES -->
@@ -60,4 +55,9 @@
 	</div>
 <!-- ===================================== END FOOTER ===================================== -->
 </body>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript" src="js/prettify.js"></script>                                   <!-- PRETTIFY -->
+<script type="text/javascript" src="js/kickstart.js"></script>                                  <!-- KICKSTART -->
+<script type="text/javascript" src="js/textsize.js"></script>                                   <!-- TEXTSIZE -->
 </html>

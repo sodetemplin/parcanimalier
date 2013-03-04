@@ -14,7 +14,22 @@
 			<li><strong>Les chiens sont ils acceptés ?</strong> non</li>			
 			<li><strong>Le parking est il payant ?</strong> non, parking gratuit :-)</li>	
 			<li><strong>Quelle est la superficie du Parc ?</strong> 37ha</li>		
-			<li><strong>Quels sont les tarifs pour les groupes ?</strong> <a href="./index.php?page=contact_parc">nous contacter</a></li>					
-			<li><strong>Y a t il d'autres choses que les animaux à voir ?</strong> oui, des sentiers <a href="./index.php?page=flore_pyreneenne">botaniques</a>, des sentiers de traces et des sentiers pré-historiques sont présents dans le Parc</li>					
+			<li><strong>Y a t il d'autres choses que les animaux à voir ?</strong> oui, des sentiers <a href="./index.php?page=flore_pyreneenne">botaniques</a>, des sentiers de traces et des sentiers pré-historiques sont présents dans le Parc</li>
+			<li><a name="tarifs"><strong>Quels sont vos tarifs détaillés ?</strong></a>
+				<ul class="checks">
+					<li>tarif normal adulte = 13€</li>
+					<li>tarif normal enfant = 11€</li>
+					<li>tarif enfant moins de 4 ans = gratuit :-)</li>					
+					<li>tarif groupe adulte (plus de 20 personnes) = 10€</li>
+					<li>tarif groupe scolaire = 8€</li>
+					<li>tarif réduit personnes handicapées = 8€</li>
+					<li>tarif préférentiel adulte pour les centres sportifs = 11€</li>
+					<li>tarif préférentiel enfant pour les centres sportifs = 9€</li>					
+					<li>tarif carte Pass adulte = 12€</li>
+					<li>tarif carte Pass enfant = 10€</li>
+					<li>tarif exceptionnel pour nos centres de vacances partenaires =  6,50€</li>
+					<li>tarif exceptionnel pour nos hôtels partenaires = 7€</li>
+				</ul>
+			</li>													
 	</ul>	
 </div>

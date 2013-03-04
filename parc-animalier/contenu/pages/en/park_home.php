@@ -4,7 +4,7 @@
 		<p><img class="align-left" alt="Les Angles' animal park, in Capcir" src="./contenu/images/ParcAnimLogo.jpg" />
 		<p class="center"><h6 class="center">Opening hours</h6>Opened every day from 9am to 5pm, and from 9am to 6pm between July 10th to Agust 31th</p>
 		<p class="center"><h6 class="center">Visit length</h6>Short tour, 1h for 1500m, long tour, 2h for 3500m</p>
-		<p class="center"><h6 class="center">Rates</h6>13€ for adults, 11€ for kids (4 years old and less : free), <a href="./index.php?page=park_contact&langue=en">contact us</a> for groups</p>	
+		<p class="center"><h6 class="center">Rates</h6>13€ for adults, 11€ for kids (4 years old and less : free), <a href="./index.php?langue=en&page=faq_park#rates">other rates here</a> (groups, ...)</p>	
 	</div>
 	<div class="col_3">
 	    <ul class="alt">
