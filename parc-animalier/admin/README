@@ -9,6 +9,8 @@ ParcAnimalierLesAnges_Besoins.pdf
 ParcAnimalierLesAnges_Maquettes.pdf
 ParcAnimalierLesAnges_Hebergements.pdf
 
+ATTENTION : CES DOCUMENTS NE SONT PAS VERSIONNES SUR GIT PAR SOUCI DE CONFIDENTIALITE
+
 Suivi des actions
 =================
 01/03/2013 : 
@@ -16,6 +18,9 @@ Suivi des actions
 google-site-verification=Nhd0T449Z_8JuieFw4NBcvrauUvLyvZodpeYSVO-7VM
 	ajout des 2 sitemaps sur le site de Google, sitemaps générés depuis le site https://www.snapsitemap.com
 	intégration du site dans les outils webmaster de Google
+
+11/03/2013 :
+	correction du repo Git verrolé
 
 Todo list
 =========
