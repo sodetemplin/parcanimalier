@@ -28,18 +28,21 @@ else
 		cible="/validation"
 	fi
 fi
-init_ftp=1
 if [ "$2" != "" -a "$2" != "INIT_FTP" ] 
 then
     echo "Erreur dans $0 - Valeur du 2° argument incorrecte"
     echo "Syntaxe: $0 {PRODUCTION|VALIDATION} [INIT_FTP]"
     exit 1
 else
-    init_ftp=0
+	if [ "$2" = "INIT_FTP" ]
+	then
+    		init_ftp="1"
+	else
+		init_ftp="0"
+	fi
 fi
-
 #Execution
-if [ $init_ftp = 0 ]
+if [ "$init_ftp" = "1" ]
 then
 	git ftp init -u $utilisateur -p $mot_de_passe - $url$cible
 else
