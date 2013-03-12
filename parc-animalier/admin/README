@@ -58,7 +58,9 @@ Opération classique (pour la vie courante) :
 	cd <racine>
 	parc-animalier/admin/commit.sh "message de commit"
         parc-animalier/admin/deploy.sh VALIDATION
+	parc-animalier/admin/deploy_unversioned_files.sh VALIDATION
 	parc-animalier/admin/deploy.sh PRODUCTION
+	parc-animalier/admin/deploy_unversioned_files.sh PRODUCTION
 
 Todo list
 =========
