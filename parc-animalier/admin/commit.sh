@@ -1,5 +1,6 @@
 #!/bin/sh
 # Creatives Commons - Parc animalier des Angles
+# A lancer depuis la racine du site pour le versionnong global
 # Création le 12/03/2013 par david.rousse@gmail.com
 # Dernière mise à jour le 12/03/2013 par david.rousse@gmail.com
 
