@@ -1,7 +1,7 @@
 <div class="col_12">
 <!-- Breadcrumbs -->
 <ul class="breadcrumbs">
-<li><a href="./index.php?page=park_home&langue=en"><?php echo traduction($langue,'accueil'); ?></a></li>
+<li><?php echo traduction($langue,'lien_accueil'); ?><?php echo traduction($langue,'accueil'); ?></a></li>
 <li><?php echo traduction($langue,'plan_acces'); ?></li>
 </ul>
 

@@ -1,10 +1,14 @@
 <div class="col_12">
 <!-- Breadcrumbs -->
 <ul class="breadcrumbs">
-<li><a href="./index.php?page=accueil_parc">Accueil</a></li>
-<li>Nous écrire</li>
+<li><?php echo traduction($langue,'lien_accueil'); ?><?php echo traduction($langue,'accueil'); ?></a></li>
+<li><?php echo traduction($langue,'contact_parc_texte1'); ?></li>
 </ul>
-	<p>Nous sommes joignables par téléphone au <strong><?php echo traduction($langue,'telephone'); ?></strong>. Vous pouvez également nous écrire à <strong><?php echo email(''); ?></strong></p>
-	<p>Nous sommes situés à l'adresse suivante (plan disponible <a href="./index.php?page=plan_acces&langue=fr">ici</a>) :
-	<address><?php echo $adresse_postale; ?></<address>		
+	<div class="col_9">
+		<p><?php echo traduction($langue,'contact_parc_texte2'); ?> <strong><?php echo traduction($langue,'telephone'); ?></strong>. <?php echo traduction($langue,'contact_parc_texte3'); ?> <strong><?php echo email(''); ?></strong>. <?php echo traduction($langue,'contact_parc_texte4'); ?> :</p>
+		<address><?php echo $adresse_postale; ?></<address>		
+	</div>
+	<div class="col_3">
+		<?php echo traduction($langue,'lien_plan_acces'); ?><button class="medium green"><?php echo traduction($langue,'contact_parc_texte5'); ?></button></a>
+	</div>
 </div>

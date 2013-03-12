@@ -8,7 +8,7 @@
 	</div>
 	<div class="col_3">
 	    <ul class="alt">
-			<li><a href="./index.php?page=access_map&langue=en"><button class="medium green">Access plan</button></a></li>
+			<li><a href="./index.php?page=access_map&langue=en"><button class="medium green">Access map</button></a></li>
 			<li><a href="./index.php?page=guided_tour&langue=en"><button class="medium blue">Guided tour</button></a></li>
 			<li><a href="./index.php?page=faq_park&langue=en"><button class="medium orange">Questions ?</button></a></li>            			
 		</ul>
