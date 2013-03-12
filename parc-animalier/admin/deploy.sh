@@ -29,7 +29,7 @@ else
 	fi
 fi
 init_ftp=1
-if [ "$2" != "" -a "$3" != "INIT_FTP" ] 
+if [ "$2" != "" -a "$2" != "INIT_FTP" ] 
 then
     echo "Erreur dans $0 - Valeur du 2° argument incorrecte"
     echo "Syntaxe: $0 {PRODUCTION|VALIDATION} [INIT_FTP]"
