@@ -1,0 +1,4 @@
+AuthUserFile /homez.359/faunepyr/www/demo/.htpasswd
+AuthName "Acces Restreint"
+AuthType Basic
+require valid-user
