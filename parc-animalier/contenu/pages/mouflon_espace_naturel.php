@@ -16,7 +16,6 @@
 	<div class="col_4">
 		<h4>Photos</h4>
 		<div class="gallery">
-			<a href="./contenu/images/animaux/mouflon/DSC00077_800x600.JPG" title="Mouflon"><img alt="Mouflon" src="./contenu/images/animaux/mouflon/vignettes/DSC00077_150x125.JPG"/></a>
 			<a href="./contenu/images/animaux/mouflon/Patrick_Nosetto (42)_800x600.JPG" title="Mouflon"><img alt="Mouflon" src="./contenu/images/animaux/mouflon/vignettes/Patrick_Nosetto (42)_150x125.JPG"/></a>
 			<a href="./contenu/images/animaux/mouflon/_FAL2024_800x600.jpg" title="Mouflon"><img alt="Mouflon" src="./contenu/images/animaux/mouflon/vignettes/_FAL2024_150x125.jpg"/></a>		
 		</div>
