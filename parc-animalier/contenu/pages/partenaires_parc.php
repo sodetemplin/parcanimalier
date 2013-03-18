@@ -6,7 +6,7 @@
 </ul>
 	<div class="col_6">
 	<ul class="alt">
-	     <li><a href="http://www.les-angles.com/saison/" target="_blank">Station des Angles</a></li>
+	     <li><a href="http://www.les-angles.com/saison/index.php?option=com_content&task=view&id=140&Itemid=188" target="_blank">Station des Angles</a></li>
         <li><a href="http://www.neigescatalanes.com/" target="_blank">Les neiges catalanes</a></li>
         <li><a href="http://www.laquillane.fr/" target="_blank">La Quillane</a></li>
         <li><a href="http://faunedespyrenees.free.fr/" target="_blank">Faune des Pyrénées</a></li>      

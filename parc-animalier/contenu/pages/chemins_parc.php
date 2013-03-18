@@ -8,4 +8,5 @@
 <div class="gallery">
 	<a href="./contenu/images/plan_parc.png"><img src="./contenu/images/plan_parc_600x370.png" /></a>
 </div>
+	<h5><a target="blank" href="./contenu/ressources/parc_animalier_brochure.pdf">Télécharger la brochure du parc pour plus de détails</a></h5>
 </div>

@@ -4,7 +4,7 @@
 <li><a href="./index.php?page=accueil_parc">Accueil</a></li>
 <li>Faune pyrénéenne</li>
 </ul>
-<p>La faune pyrénéenne dans le parc se compose des animaux suivants :<p>
+<p>Venir visiter le parc animalier des Angles, unique dans les Pyrénées, c'est vivre intensément une aventure enrichissante à bien des points de vue. En parcourant les sentiers aménagés du parc animalier, vous découvrirez tous les animaux spécifiques de la <strong>faune pyrénéenne dans leur espace nature montagnard</strong> :<p>
 
 <ul class="tabs left">
 <li><a href="#Isard">Isard</a></li>

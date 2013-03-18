@@ -25,42 +25,9 @@ google-site-verification=Nhd0T449Z_8JuieFw4NBcvrauUvLyvZodpeYSVO-7VM
 12/03/2013 : 
 	ajout de scripts en ligne de commandes
 	globalisation de l'internationnalisation des pages	
-Tips
-====
 
-= Syncho. Git/Ubunto =
-Afin d'éviter de synchroniser les fichers de GIT via Ubuntu One, faire ceci :
-	sudo vim /etc/xdg/ubuntuone/syncdaemon.conf
-	\A.*\.git\Z à ajouter dans la liste des fichiers à ignorer
-
-= Commit et déploiement =
-Pour faire un commit :
-	cd <racine>
-	parc-animalier/admin/commit.sh "message de commit"
-
-Pour déployer de manière initiale (une seul fois donc depuis un repo. git) vers l'env. de validation :
-	cd <racine>
-	parc-animalier/admin/deploy.sh VALIDATION INTI_FTP
-
-Pour déployer de manière initiale (une seul fois donc depuis un repo. git) vers l'env. de production :
-        cd <racine>
-        parc-animalier/admin/deploy.sh PRODUCTION INTI_FTP
-
-Pour déployer vers l'env. de validation (opération courante donc) :
-        cd <racine>
-        parc-animalier/admin/deploy.sh VALIDATION
-
-Pour déployer vers l'env. de production (opération courante donc) :
-        cd <racine>
-        parc-animalier/admin/deploy.sh PRODUCTION
-
-Opération classique (pour la vie courante) :
-	cd <racine>
-	parc-animalier/admin/commit.sh "message de commit"
-        parc-animalier/admin/deploy.sh VALIDATION
-	parc-animalier/admin/deploy_unversioned_files.sh VALIDATION
-	parc-animalier/admin/deploy.sh PRODUCTION
-	parc-animalier/admin/deploy_unversioned_files.sh PRODUCTION
+17/03/2013 :
+	mise en place de la version catalane
 
 Todo list
 =========

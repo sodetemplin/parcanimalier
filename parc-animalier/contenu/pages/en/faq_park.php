@@ -5,7 +5,7 @@
 <li>Frequently asked questions</li>
 </ul>
 	<ul class="checks">
-				<li><strong>Do you have a flyer that describes your park ?</strong> <a href="./contenu/ressources/parc_animalier_brochure.pdf">here it is</a> (only in french)</li>		
+				<li><strong>Do you have a flyer that describes your park ?</strong> <a target="blank" href="./contenu/ressources/parc_animalier_brochure.pdf">here it is</a> (only in french)</li>		
 			<li><strong>Is picnic allowed ?</strong> yes ! And dedicated areas are available for your comfort</li>
 			<li><strong>Clothes and shoes to wear during tours ?</strong> warn clothes are recommended on winter, and mountain shoes are needed during all the year</li>
 			<li><strong>Is is possible to visit the Park for people in wheelchair ?</strong> <a href="./index.php?page=park_contact&langue=en">contact us</a>, we can adapt our visit according your needs</li>
@@ -27,7 +27,7 @@
 					<li>special rate for kids in sports complex = 9€</li>					
 					<li>rate for adults Pass card = 12€</li>
 					<li>rate for kids Pass card = 10€</li>
-					<li>reduced rate for our partners vacations complex =  6,50€</li>
+					<li>reduced rate for our partners vacations complex = 6,50€</li>
 					<li>reduced rate for our partners hotels = 7€</li>
 				</ul>
 			</li>																	

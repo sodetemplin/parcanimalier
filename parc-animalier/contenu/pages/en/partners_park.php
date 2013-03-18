@@ -6,7 +6,7 @@
 </ul>
 	<div class="col_6">
 	<ul class="alt">
-        <li><a href="http://www.les-angles.com/saison/index.php?lang=english" target="_blank">Les Angles' ski resort</a></li>
+        <li><a href="http://www.les-angles.com/saison/index.php?option=com_content&task=view&id=140&Itemid=188&lang=english" target="_blank">Les Angles' ski resort</a></li>
         <li><a href="http://www.laquillane.fr/" target="_blank">La Quillane' ski resort (only in French)</a></li>
         <li><a href="http://www.neigescatalanes.com/home.asp?lng=EN_NC" target="_blank">More information about "Les neiges catalanes"</a></li>	
         <li><a href="http://faunedespyrenees.free.fr/" target="_blank">Faune des Pyrénées (only in French)</a></li>      

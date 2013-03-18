@@ -1,5 +1,11 @@
 <div id="header">
-<div class="col_6"><p class="left"><?php echo traduction($langue,'texte_choix_langues'); ?> : <?php echo traduction('fr','lien_accueil'); ?><?php echo traduction('fr','texte_choix_langue_FR'); ?></a> | <?php echo traduction($langue,'lien_accueil'); ?><?php echo traduction($langue,'texte_choix_langue_EN'); ?></a></p></div>
+<div class="col_6">
+<p class="left">
+	<?php echo traduction('fr','texte_choix_langues'); ?> : <?php echo traduction('fr','lien_accueil'); ?><?php echo traduction('fr','texte_choix_langue_FR'); ?></a>
+	 | <?php echo traduction('en','lien_accueil'); ?><?php echo traduction('en','texte_choix_langue_EN'); ?></a>
+	 | <?php echo traduction('ca','lien_accueil'); ?><?php echo traduction('ca','texte_choix_langue_CA'); ?></a>
+</p>
+</div>
 
 <div class="col_6">
 	<?php if ( function_exists( 'the_msls' ) ) the_msls(); ?>
