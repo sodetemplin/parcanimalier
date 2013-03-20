@@ -11,7 +11,7 @@
         <li><a href="http://www.neigescatalanes.com/home.asp?lng=EN_NC" target="_blank">Estacions dels "Les neiges catalanes"</a></li>	
         <li><a href="http://faunedespyrenees.free.fr/" target="_blank">Animals dels Pirineus (en francès)</a></li>      
 		  <li><a href="http://www.tripadvisor.fr/Attraction_Review-g635572-d2256090-Reviews-Parc_animalier_des_Angles-Les_Angles_Pyrenees_Orientales_Languedoc_Roussillon.html" target="_blank">El parc en TripAdvisor (en francès)</a></li>
-        <li><a href="http://www.formigueres.fr/parc-animalier/les-angles/tabid/37095/offreid/949ba41b-79aa-43a4-8f3d-0ee323ad6eb3/detail.aspx" target="_blank">El parc en el lloc web de Formiguères (en francès)</a></li>
+        <li><a href="http://www.formigueres.cat/parc-d-animals/les-angles/tabid/37291/offreid/949ba41b-79aa-43a4-8f3d-0ee323ad6eb3/detail.aspx" target="_blank">El parc en el lloc web de Formiguères</a></li>
         <li><a href="http://www.facebook.com/ParcAnimalierDesAngles" target="_blank">El parc en Facebook (en francès)</a></li>
 		  <li><a href="http://www.dailymotion.com/video/xaeiln_parc-animalier-des-angles-pyrenees_animals#.USx0AdFJ4ew" target="_blank">El parc en Dailymotion (en francès)</a></li>          					
 	</ul>	
