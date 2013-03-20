@@ -23,12 +23,6 @@
 					<li>rate for adults groups (more than 20 persons) = 10€</li>
 					<li>rate for schoolar group = 8€</li>
 					<li>rate for disabled persons = 8€</li>
-					<li>special rate for adults in sports complex = 11€</li>
-					<li>special rate for kids in sports complex = 9€</li>					
-					<li>rate for adults Pass card = 12€</li>
-					<li>rate for kids Pass card = 10€</li>
-					<li>reduced rate for our partners vacations complex = 6,50€</li>
-					<li>reduced rate for our partners hotels = 7€</li>
 				</ul>
 			</li>																	
 	</ul>	

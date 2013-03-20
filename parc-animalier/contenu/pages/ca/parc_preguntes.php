@@ -23,12 +23,6 @@
 					<li>grups d'adults (a partir de 20 persones) = 10€</li>
 					<li>tarifes educació (grups)= 8€</li>
 					<li>discapacitats = 8€</li>
-					<li>tarifes especials adults en un complex esportiu = 11€</li>
-					<li>tarifes especials nens en un complex esportiu = 9€</li>					
-					<li>adults amb "Pass card" = 12€</li>
-					<li>nens amb kids "Pass card" = 10€</li>
-					<li>tarifes reduïdes per als nostres socis = 6,50€</li>
-					<li>tarifes reduïdes per als nostres socis hotelers = 7€</li>
 				</ul>
 			</li>																	
 	</ul>	
