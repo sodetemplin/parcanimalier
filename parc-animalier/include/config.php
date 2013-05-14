@@ -14,7 +14,7 @@
 $nom_domaine_publique = 'www.faune-pyreneenne.fr';
 $mail_webmaster = 'webmaster@faune-pyreneenne.fr';
 $mail_contact = 'contact@faune-pyreneenne.fr';
-$adresse_postale = 'Parc animalier des Angles, Le pla del mir, BP 10, 66210 Les Angles, France';
+$adresse_postale = 'Parc animalier Les Angles, Le pla del mir, BP 10, 66210 Les Angles, France';
 $chaine_par_defaut = 'traduction_non_trouvee';
 $langue_par_defaut = 'fr';
 $type_images_autorisees = array('JPG','jpg','gif','png');
@@ -71,7 +71,7 @@ $liste_pages_par_langues = array (
 				);
 $textes_affichees_par_langues = array ( 
 				'fr' => array 
-					(	'titre_site' => 'Parc animalier des Angles',
+					(	'titre_site' => 'Parc animalier Les Angles',
 						'bouquetin' => 'Bouquetin',
                   'cerf' => 'Cerf',
 						'mouflon' => 'Mouflon',
