@@ -1,7 +1,7 @@
 <div class="col_12">
-	<h2 class="center">Parc animalier des Angles, en Capcir</h2>
+	<h2 class="center">Parc animalier Les Angles, en Capcir</h2>
 	<div class="col_9">	
-	<p><img class="align-left" alt="Parc animalier des Angles, en Capcir" src="./contenu/images/ParcAnimLogo.jpg" />
+	<p><img class="align-left" alt="Parc animalier Les Angles, en Capcir" src="./contenu/images/ParcAnimLogo.jpg" />
 	<p class="center"><h6 class="center">Ouverture</h6>Tous les jours de 9h à 17h, du 10 juillet au 31 août de 9h à 18h</p>
 	<p class="center"><h6 class="center">Durée de visite</h6>Petit circuit, 1h / 1500m, grand circuit de 2h / 3500m</p>
 	<p class="center"><h6 class="center">Tarif</h6>13€ pour les adultes, 11€ pour les enfants (gratuit pour les moins de 4 ans), <a href="./index.php?page=faq_parc#tarifs">autres tarifs ici</a> (groupes, ...)</p>
