@@ -11,7 +11,7 @@
 			<li><strong>Alimentation</strong> : plantes herbacées, lichen, mousses, pousses de bouleau</li>
 			<li><strong>Prédateurs</strong> : homme, loup, ours, glouton, renard (pour le faon)</li>									
 		</ul>
-		<h5><a href="./index.php?page=galerie#Renne">Plus de photos ...</a></h5>
+		<h5><a href="./index.php?page=galerie#renne">Plus de photos ...</a></h5>
 	</div>
 	<div class="col_4">
 		<h4>Photos</h4>
