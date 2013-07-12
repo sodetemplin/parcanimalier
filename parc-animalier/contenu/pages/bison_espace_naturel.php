@@ -16,9 +16,9 @@
 	<div class="col_4">
 		<h4>Photos</h4>
 		<div class="gallery">
-			<a href="./contenu/images/animaux/bison/IMG_0096_800x600.jpg" title="Bison"><img alt="Bison" src="./contenu/images/animaux/bison/vignettes/IMG_0096_150x125.jpg" /></a>
-			<a href="./contenu/images/animaux/bison/IMG_0097_800x600.jpg" title="Bison"><img alt="Bison" src="./contenu/images/animaux/bison/vignettes/IMG_0097_150x125.jpg" /></a>
-			<a href="./contenu/images/animaux/bison/IMG_0098_800x600.jpg" title="Bison"><img alt="Bison" src="./contenu/images/animaux/bison/vignettes/IMG_0098_150x125.jpg" /></a>		
+			<a href="./contenu/images/animaux/bison/Bisons DSC_3301_800x600.jpg" title="Bison"><img alt="Bison" src="./contenu/images/animaux/bison/vignettes/Bisons DSC_3301_150x125.jpg" /></a>
+			<a href="./contenu/images/animaux/bison/Bisons DSC_3306_800x600.jpg" title="Bison"><img alt="Bison" src="./contenu/images/animaux/bison/vignettes/Bisons DSC_3306_150x125.jpg" /></a>
+			<a href="./contenu/images/animaux/bison/IMG_0096_800x600.jpg" title="Bison"><img alt="Bison" src="./contenu/images/animaux/bison/vignettes/IMG_0096_150x125.jpg" /></a>		
 		</div>
 	</div>
 	<div class="col_12">

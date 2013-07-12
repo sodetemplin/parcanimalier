@@ -11,13 +11,14 @@
 			<li><strong>Alimentation</strong> : plantes herbacées, lichen, mousses, pousses de bouleau</li>
 			<li><strong>Prédateurs</strong> : homme, loup, ours, glouton, renard (pour le faon)</li>									
 		</ul>
-		<!-- <h5><a href="./index.php?page=galerie#Renne">Plus de photos ...</a></h5> -->
+		<h5><a href="./index.php?page=galerie#Renne">Plus de photos ...</a></h5>
 	</div>
 	<div class="col_4">
 		<h4>Photos</h4>
 		<div class="gallery">
 			<a href="./contenu/images/animaux/renne/renne_800x600.png" title="Renne"><img alt="Renne" src="./contenu/images/animaux/renne/vignettes/renne_150x125.png"/></a>
-			<a href="./contenu/images/animaux/renne/renne2_400x200.png" title="Renne, grotte de Peña de Candamo (Espagne)"><img alt="Renne, grotte de Peña de Candamo (Espagne)" src="./contenu/images/animaux/renne/vignettes/renne2_150x125.png"/></a>
+			<a href="./contenu/images/animaux/renne/Renne DSC_0723_600x450.jpg" title="Renne"><img alt="Renne" src="./contenu/images/animaux/renne/vignettes/Renne DSC_0723_150x125.jpg"/></a>
+			<a href="./contenu/images/animaux/renne/Renne DSC_7975_600x450.jpg" title="Renne"><img alt="Renne" src="./contenu/images/animaux/renne/vignettes/Renne DSC_7975_150x125.jpg"/></a>			
 		</div>
 	</div>
 	<div class="col_12">

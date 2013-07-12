@@ -16,9 +16,9 @@
 	<div class="col_4">
 		<h4>Photos</h4>
 		<div class="gallery">
-			<a href="./contenu/images/animaux/daim/IMG_0099_800x600.jpg" title="Daim"><img alt="Daim" src="./contenu/images/animaux/daim/vignettes/IMG_0099_150x125.jpg" /></a>
-			<a href="./contenu/images/animaux/daim/IMG_0100_800x600.jpg" title="Daim"><img alt="Daim" src="./contenu/images/animaux/daim/vignettes/IMG_0100_150x125.jpg" /></a>
-			
+			<a href="./contenu/images/animaux/daim/daim DSC_1482_800x600.jpg" title="Daim"><img alt="Daim" src="./contenu/images/animaux/daim/vignettes/daim DSC_1482_150x125.jpg" /></a>
+			<a href="./contenu/images/animaux/daim/Daims DSC_3321_800x600.jpg" title="Daim"><img alt="Daim" src="./contenu/images/animaux/daim/vignettes/Daims DSC_3321_150x125.jpg" /></a>
+			<a href="./contenu/images/animaux/daim/Daims DSC_3325_800x600.jpg" title="Daim"><img alt="Daim" src="./contenu/images/animaux/daim/vignettes/Daims DSC_3325_150x125.jpg" /></a>			
 		</div>
 	</div>
 	<div class="col_12">
