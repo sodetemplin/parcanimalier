@@ -1,0 +1,4 @@
+AuthUserFile /homez.359/faunepyr/www/parc-animalier/admin/.htpasswd
+AuthName "Acces Restreint"
+AuthType Basic
+require valid-user

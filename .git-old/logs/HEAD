@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000 eaa215bb87ae8db9ce4790b4ab82a5f41c15ca5e david.rousse@gmail.com <david.rousse@gmail.com> 1363014740 +0100	clone: from https://github.com/sodetemplin/parcanimalier.git
+eaa215bb87ae8db9ce4790b4ab82a5f41c15ca5e 50ffe74aaf2085ae5326d8e652e2ab1994ad8ccb david.rousse@gmail.com <david.rousse@gmail.com> 1363018146 +0100	commit: Corruption repo
+50ffe74aaf2085ae5326d8e652e2ab1994ad8ccb 5ae3b94392175dcefd82c6e837c3b330c5d9d408 david.rousse@gmail.com <david.rousse@gmail.com> 1363018682 +0100	commit: Conf SSH
+5ae3b94392175dcefd82c6e837c3b330c5d9d408 275acb2c554941cccad526e603b77f5474331569 david.rousse@gmail.com <david.rousse@gmail.com> 1363020034 +0100	commit: Suppr. ficher title
+275acb2c554941cccad526e603b77f5474331569 34fb6230afd7aada911021c411181c5c0bbb847b david.rousse@gmail.com <david.rousse@gmail.com> 1363020622 +0100	commit: Suppr. pdf1
+34fb6230afd7aada911021c411181c5c0bbb847b 68af1ed1f203277a1f0d0550cfddc8aa8b632566 david.rousse@gmail.com <david.rousse@gmail.com> 1363020690 +0100	commit: Suppr. fichiers commite par erreur
+68af1ed1f203277a1f0d0550cfddc8aa8b632566 21ff2b0138b2e1547447acdb4344b9361fc29570 david.rousse@gmail.com <david.rousse@gmail.com> 1363020887 +0100	commit: Maj README
+21ff2b0138b2e1547447acdb4344b9361fc29570 9bbc68ceee25c5a45e1ea92ee5032cd064200ee7 david.rousse@gmail.com <david.rousse@gmail.com> 1363086797 +0100	commit: Test
+9bbc68ceee25c5a45e1ea92ee5032cd064200ee7 2f8d226be03a585aa302d63a4198e730e5482c5c david.rousse@gmail.com <david.rousse@gmail.com> 1363087607 +0100	commit: Validation
+2f8d226be03a585aa302d63a4198e730e5482c5c b4ff10ce2f643e5dfa68afff7cfd7224ce6177df david.rousse@gmail.com <david.rousse@gmail.com> 1363087809 +0100	commit: Validaiton
+b4ff10ce2f643e5dfa68afff7cfd7224ce6177df 72a92530e64a9dc74e31e3606d881adb07753182 david.rousse@gmail.com <david.rousse@gmail.com> 1363091786 +0100	commit: Test
+72a92530e64a9dc74e31e3606d881adb07753182 67a9e68d079ef9bf94a12eb469eaa7d7c89512a0 david.rousse@gmail.com <david.rousse@gmail.com> 1363098135 +0100	commit: Maj
+67a9e68d079ef9bf94a12eb469eaa7d7c89512a0 0594fea4156677cf8e7e1f18ed73a6fc2217d413 david.rousse@gmail.com <david.rousse@gmail.com> 1363098727 +0100	commit: Maj
+0594fea4156677cf8e7e1f18ed73a6fc2217d413 e73ef8e19d580bd4027507e0bad59b6ee44e6bcc david.rousse@gmail.com <david.rousse@gmail.com> 1363101944 +0100	commit: Validaiton
+e73ef8e19d580bd4027507e0bad59b6ee44e6bcc 5b155e37809c2d9d294eabb963a2dac1e2435345 david.rousse@gmail.com <david.rousse@gmail.com> 1363185877 +0100	commit: Sauve
+5b155e37809c2d9d294eabb963a2dac1e2435345 80da50deb302cb926c9be8b9200bb3153e8ffd12 david.rousse@gmail.com <david.rousse@gmail.com> 1363595336 +0100	commit: Catalan
+80da50deb302cb926c9be8b9200bb3153e8ffd12 fef18fd1953f93e7440c11063d64bbd803164862 david.rousse@gmail.com <david.rousse@gmail.com> 1363773695 +0100	commit: Suppression_prix
+fef18fd1953f93e7440c11063d64bbd803164862 e5d3e513f522847d0ca81b64575c7106099c42cc david.rousse@gmail.com <david.rousse@gmail.com> 1363775617 +0100	commit: MAJlienCAFormiguere
+e5d3e513f522847d0ca81b64575c7106099c42cc f3236e6bccfbe355c27b5c41e5a83add9a4a02bc david.rousse@gmail.com <david.rousse@gmail.com> 1363790699 +0100	commit: MAJLiens
+f3236e6bccfbe355c27b5c41e5a83add9a4a02bc 65e2559100335a3fc4cf2d4b841f434360100033 david.rousse@gmail.com <david.rousse@gmail.com> 1368514652 +0200	commit: MAJ
+65e2559100335a3fc4cf2d4b841f434360100033 25731a2dc88127639dd75af5c334c137052f5457 david.rousse@gmail.com <david.rousse@gmail.com> 1369307797 +0200	commit: MAJ_slogan
+25731a2dc88127639dd75af5c334c137052f5457 056b5a2d5179bf0227f9ed62e1d95877fbb7149b sodetemplin <david.rousse@gmail.com> 1373640173 +0200	commit: MAJPhotosJusquaDaim
+056b5a2d5179bf0227f9ed62e1d95877fbb7149b a6fc87b8ab4953d97613c65e040cdd143481c049 sodetemplin <david.rousse@gmail.com> 1373640489 +0200	commit: MAJPhotosJusquaDaim3
+a6fc87b8ab4953d97613c65e040cdd143481c049 fdf6b8622bdf6f34f7d752e0d7ff0c47da4733a5 sodetemplin <david.rousse@gmail.com> 1373641225 +0200	commit: MAJPhotosJusquaDaim6
+fdf6b8622bdf6f34f7d752e0d7ff0c47da4733a5 1e6745d1afaf5f452e52c16a9efe38140cf9786a sodetemplin <david.rousse@gmail.com> 1373641398 +0200	commit: MAJPhotosJusquaDaim7
+1e6745d1afaf5f452e52c16a9efe38140cf9786a e23bd0b6c73e219546b62fd502e0c2b085ab628b sodetemplin <david.rousse@gmail.com> 1373643093 +0200	commit: MAJPageRenne
+e23bd0b6c73e219546b62fd502e0c2b085ab628b cdb9ac9c74dc9dbfb643ea271fa00384eb1a2bef sodetemplin <david.rousse@gmail.com> 1374767915 +0200	commit: MAJPhotos
+cdb9ac9c74dc9dbfb643ea271fa00384eb1a2bef 14051ba79d317de9246ea646e1a28b6604754e3c sodetemplin <david.rousse@gmail.com> 1374847002 +0200	commit: Photos
+14051ba79d317de9246ea646e1a28b6604754e3c 7af57393d087cf2c7886b16f7a02b9556421ab50 sodetemplin <david.rousse@gmail.com> 1380830666 +0200	commit: MajPageAcceuil

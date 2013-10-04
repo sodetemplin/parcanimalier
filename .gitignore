@@ -1,0 +1,6 @@
+*.*~
+parc-animalier/admin/.htaccess*
+parc-animalier/admin/.htpasswd*
+parc-animalier/admin/*.sh
+parc-animalier/admin/*.pdf
+

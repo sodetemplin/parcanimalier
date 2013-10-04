@@ -1,0 +1,96 @@
+parcanimalier
+=============
+
+Parc animalier des Angles
+
+Documents de référence
+======================
+ParcAnimalierLesAnges_Besoins.pdf
+ParcAnimalierLesAnges_Maquettes.pdf
+ParcAnimalierLesAnges_Hebergements.pdf
+
+ATTENTION : CES DOCUMENTS NE SONT PAS VERSIONNES SUR GIT PAR SOUCI DE CONFIDENTIALITE
+
+Suivi des actions
+=================
+01/03/2013 : 
+	ajout de l'enregistrement texte suivant dans la zone DNS chez OVH
+google-site-verification=Nhd0T449Z_8JuieFw4NBcvrauUvLyvZodpeYSVO-7VM
+	ajout des 2 sitemaps sur le site de Google, sitemaps générés depuis le site https://www.snapsitemap.com
+	intégration du site dans les outils webmaster de Google
+
+11/03/2013 :
+	correction du repo Git verrolé
+
+12/03/2013 : 
+	ajout de scripts en ligne de commandes
+	globalisation de l'internationnalisation des pages	
+
+17/03/2013 :
+	mise en place de la version catalane
+
+12/07/2013 : 
+	mise à jour de photos
+
+03/09/2013 : 
+	ajout bouton de résa. de billets sur page acceuil FR
+
+Todo list
+=========
+- Mieux référencer le site en contactant d'autres sites pour un cross référencement
+
+- Mettre sur la page d'accueil les sous liens
+
+- Faire la partie d'administration
+	Utiliser alohaeditor pour l'éditeur HTML en ligne ?
+
+- Référencer les sitemaps sur d'autres moteurs que Google
+
+- Ajout à la liste des animaux ceux vivants en dehors des enclos
+
+- Enlever les fichiers *.*~ du versionning (commande pour les supprimer :  find . -name "*.*~" -exec rm -i {} \;)
+
+- Classer les photos par portrait puis paysage, ou changer la taille d'un des types
+
+- Faire un forumaire d'envoi de mail, avec comme champs :
+	<form class="vertical">
+	<div class="col_4">
+
+	<label for="Nom">Nom</label>
+	<input id="Nom" type="text" placeholder="Votre nom" required/>
+	
+	<label for="Prenom">Prénom</label>
+	<input id="Prenom" type="text" placeholder="Votre prénom" required/>
+
+	<label for="Email">E-mail</label>
+	<input id="Email" type="email" placeholder="Votre e-mail" required/>
+	
+	<label for="Texte">Votre message</label>
+	<textarea id="Texte" placeholder="Votre message" required></textarea><br />
+	
+	<button>Envoyer</button>
+		
+	</div>
+	</form>
+
+	-- ou en anglais --
+
+	<form class="vertical">
+	<div class="col_4">
+
+	<label for="Fisrtname">Nom</label>
+	<input id="Firstname" type="text" placeholder="Your firstname" required/>
+	
+	<label for="Lastname">Prénom</label>
+	<input id="Lastname" type="text" placeholder="Your lastname" required/>
+
+	<label for="Email">E-mail</label>
+	<input id="Email" type="email" placeholder="Your e-mail" required/>
+	
+	<label for="Message">Your message</label>
+	<textarea id="Message" placeholder="Your message" required></textarea><br />
+	
+	<button>Send your message</button>
+		
+	</div>
+	</form>

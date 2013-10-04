@@ -1,0 +1,63 @@
+/*
+	Parc animalier Les Angles
+	style_custo.css
+	
+*/
+
+body{
+background:#1a87c2;
+}
+
+#wrap{
+width:850px;
+}
+
+#wrap_accueil{
+width:850px;
+background:#fff;
+margin:30px auto 30px auto;
+padding:0 1%;
+border:1px solid #ccc;
+}
+
+.hr_custo {
+margin : 0 0;
+}
+
+.bx-wrapper {
+	padding-top: 10px;
+	margin: 40px 0 0 0;
+}
+
+.bx-controls {
+display:none;
+}
+
+#footer{
+background:#efefef;
+}
+
+#sub-header-index-html {
+display:none; 
+}
+
+#sub-header-index-mobile {
+display:none; 
+}
+
+#link-top{
+	position: absolute;
+	top:10px;
+	right:10px;
+	*right:25px;/*IE 7 ONLY*/
+	left:auto;
+	color:#666;
+	text-decoration:none;
+	display: inline-block;
+	padding:5px 10px;
+	background:#e5e5e5;
+	line-height:100%;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
