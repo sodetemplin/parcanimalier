@@ -1,4 +1,0 @@
-AuthUserFile /homez.359/faunepyr/www/validation/.htpasswd
-AuthName "Acces Restreint"
-AuthType Basic
-require valid-user
