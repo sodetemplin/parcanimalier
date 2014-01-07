@@ -17,12 +17,12 @@
 			<li><strong>Una altra cosa a veure al parc ?</strong> si ! <a href="./index.php?page=pirineus_flora&langue=ca">flora dels Pirineus</a></li>
 			<li><a name="tarifes"><strong>Tarifes generals ?</strong></a>
 				<ul class="checks">
-					<li>adults = 13€</li>
-					<li>nens = 11€</li>
+					<li>adults = 14€</li>
+					<li>nens = 12€</li>
 					<li>menys de 4 anys = entrada gratuida :-)</li>
-					<li>grups d'adults (a partir de 20 persones) = 10€</li>
-					<li>tarifes educació (grups)= 8€</li>
-					<li>discapacitats = 8€</li>
+					<li>grups d'adults (a partir de 20 persones) = 11€</li>
+					<li>tarifes educació (grups) = 9€</li>
+					<li>discapacitats = 9€</li>
 				</ul>
 			</li>																	
 	</ul>	

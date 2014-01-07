@@ -17,12 +17,12 @@
 			<li><strong>Except animals, is there something else to see ?</strong> yes ! botanics trails are available, surrounded with theses <a href="./index.php?page=pyrenees_flora&langue=en">flora</a></li>
 			<li><a name="rates"><strong>What are your detailled rates ?</strong></a>
 				<ul class="checks">
-					<li>adult rate = 13€</li>
-					<li>kid rate = 11€</li>
+					<li>adult rate = 14€</li>
+					<li>kid rate = 12€</li>
 					<li>chilren rate (less than 4 years old) = free :-)</li>
-					<li>rate for adults groups (more than 20 persons) = 10€</li>
-					<li>rate for schoolar group = 8€</li>
-					<li>rate for disabled persons = 8€</li>
+					<li>rate for adults groups (more than 20 persons) = 11€</li>
+					<li>rate for schoolar group = 9€</li>
+					<li>rate for disabled persons = 9€</li>
 				</ul>
 			</li>																	
 	</ul>	
