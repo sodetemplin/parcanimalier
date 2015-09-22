@@ -1,5 +1,5 @@
-parcanimalier
-=============
+Readme
+======
 
 Parc animalier des Angles
 
@@ -32,12 +32,19 @@ google-site-verification=Nhd0T449Z_8JuieFw4NBcvrauUvLyvZodpeYSVO-7VM
 12/07/2013 : 
 	mise à jour de photos
 
-<<<<<<< HEAD
 03/09/2013 : 
 	ajout bouton de résa. de billets sur page acceuil FR
 
-=======
->>>>>>> cdb9ac9c74dc9dbfb643ea271fa00384eb1a2bef
+Durant les congés 2013 :
+	ajout d'un message d'info. sur la page d'accueil
+
+07/01/2014 :
+	mise à jour des tarifs (+1€)
+
+22/09/2015 :
+	ajout dans le pied de page de index.html des icônes Facebook et Google+
+	ajoute dans les pages d'accueil des versions FR, EN et CA des posts de la page publique Facebook
+
 Todo list
 =========
 - Mieux référencer le site en contactant d'autres sites pour un cross référencement
