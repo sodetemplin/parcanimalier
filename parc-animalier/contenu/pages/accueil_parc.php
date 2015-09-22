@@ -1,6 +1,14 @@
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
 <div class="col_12">
 	<h2 class="center">Parc animalier Les Angles, en Capcir</h2>
-	<div class=" center notice warning"><i class="icon-warning-sign icon-large"></i>Nouvelle TVA, qui nous oblige à mettre en place de nouveaux <a href="./index.php?page=faq_parc#tarifs">tarifs</a> (juste 1€ d'augmentation)</div>
 	<div class="col_9">	
 	<br />	
 	<p><img class="align-left" alt="Parc animalier Les Angles, en Capcir" src="./contenu/images/ParcAnimLogo.jpg" />
@@ -16,4 +24,13 @@
 			<li><a href="./index.php?page=fiches_faune"><button class="medium orange">Fiches de la faune du parc</button></a></li>            
 		</ul>
 	</div>	
+	<div class="col_12 center">
+		<div class="fb-page center" data-href="https://www.facebook.com/ParcAnimalierDesAngles" data-width="500" data-height="250" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false" data-show-posts="true">
+			<div class="fb-xfbml-parse-ignore">
+				<blockquote cite="https://www.facebook.com/ParcAnimalierDesAngles">
+					<a href="https://www.facebook.com/ParcAnimalierDesAngles">Parc animalier des Angles</a>
+				</blockquote>
+			</div>
+		</div>
+	</div>
 </div>
