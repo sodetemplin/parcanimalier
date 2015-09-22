@@ -1,9 +1,9 @@
-parcanimalier
-=============
+Objet
+=====
 
-Parc animalier des Angles
+Site web du Parc animalier des Angles
 
-contenu
+Contenu
 =======
 README.md : ce fichier
 index.html : racine HTML d'acceuil
