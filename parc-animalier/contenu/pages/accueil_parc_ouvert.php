@@ -9,7 +9,6 @@
 </script>
 <div class="col_12">
 	<h2 class="center">Parc animalier Les Angles, en Capcir</h2>
-	<div class=" center notice error"><i class="icon-error-sign icon-large"></i>Le parc animalier est fermé au public en novembre : ré-ouverture le 1er décembre. A très vite !</div>	
 	<div class="col_9">	
 	<br />	
 	<p><img class="align-left" alt="Parc animalier Les Angles, en Capcir" src="./contenu/images/ParcAnimLogo.jpg" />
